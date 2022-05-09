@@ -15,6 +15,6 @@ THEN I am able to successfully create, update, and delete data in my database
 We were provided starter code from @Xandromus's coding bootcamp repo: https://github.com/coding-boot-camp/fantastic-umbrella. All other coding was done by me in VS Code and saved in GitHub. This project used ExpressJS, MySQL, Sequelize, dotenv, VSCode, GitHub, and Insomnia.
 
 You can find my repo code here: https://github.com/amhernandez1163/13-orm-ecommerce
-The YouTube DEMO can be found here: https://youtu.be/rYae7cAEuIk (resolution goes up to 720p - please adjust for quality)
+The YouTube DEMO can be found here: https://youtu.be/T4F125W-gFg (resolution goes up to 720p - please adjust for quality)
 
 ![Screenshot of VS Code](./assets/images/VS_Code_image.jpg)
